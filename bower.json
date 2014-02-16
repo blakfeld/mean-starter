@@ -1,23 +1,23 @@
 {
-	"name": "AngularKs",
+	"name": "AngularsJS",
 	"version": "1.0.0",
 	"dependencies": {
-		"bootstrap": "lastest",
-		"angular": "lastest",
-		"angular-resource": "lastest",
-		"angular-cookies": "lastest",
-		"angular-route": "lastest",
-		"angular-bootstrap": "lastest",
-		"font-awesome": "lastest",
-		"animate.css": "lastest",
-		"json3": "lastest",
-		"jquery": "lastest"
+		"bootstrap": "latest",
+		"angular": "latest",
+		"angular-resource": "latest",
+		"angular-cookies": "latest",
+		"angular-route": "latest",
+		"angular-bootstrap": "latest",
+		"font-awesome": "latest",
+		"animate.css": "latest",
+		"json3": "latest",
+		"jquery": "latest"
 	},
 	"devDependencies": {
-		"angular-mocks": "lastest",
-		"angular-scenario": "lastest"
+		"angular-mocks": "latest",
+		"angular-scenario": "latest"
 	},
 	"resolutions": {
-		"angular": "lastest"
+		"angular": "latest"
 	}
 }
