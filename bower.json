@@ -1,0 +1,23 @@
+{
+	"name": "AngularKs",
+	"version": "1.0.0",
+	"dependencies": {
+		"bootstrap": "lastest",
+		"angular": "lastest",
+		"angular-resource": "lastest",
+		"angular-cookies": "lastest",
+		"angular-route": "lastest",
+		"angular-bootstrap": "lastest",
+		"font-awesome": "lastest",
+		"animate.css": "lastest",
+		"json3": "lastest",
+		"jquery": "lastest"
+	},
+	"devDependencies": {
+		"angular-mocks": "lastest",
+		"angular-scenario": "lastest"
+	},
+	"resolutions": {
+		"angular": "lastest"
+	}
+}

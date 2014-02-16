@@ -1,0 +1,30 @@
+{
+	"name": "mean-starter",
+	"description": "A Mean Starter Kit",
+	"private": false,
+	"author": "MEAN - Mongo, Express, Angular.js, Node.js",
+	"engines": {
+		"node": "0.10.x",
+		"npm": "1.2.x"
+	},
+	"scripts": {
+		"start": "NODE_ENV=development nodemon server.js"
+	},
+	"main": "server.js",
+	"dependencies": {
+		"express": "latest",
+		"jade": "latest",
+		"mongoose": "latest",
+		"connect-flash": "latest",
+		"passport": "latest",
+		"passport-local": "latest",
+		"passport-facebook": "latest",
+		"passport-twitter": "latest",
+		"underscore": "latest"
+	},
+	"devDependencies": {
+		"supertest": "latest",
+		"should": "latest",
+		"mocha": "latest"
+	}
+}
